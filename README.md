@@ -20,7 +20,7 @@ _bairul6154@hstat.org_
 # What I Like
 
 * Software Engineering
-    * I like to code
+    * I **_love_** to code
     * The language that I am currently learning is git
     * I know some Javascript as well
 * Drawing
