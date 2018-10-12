@@ -16,5 +16,13 @@ _bairul6154@hstat.org_
 8. Gym or Chemistry Lab
 
 ---
+---
+# What I Like
 
-# My Hobbies
+* Software Engineering
+    * I like to code
+    * The language that I am currently learning is git
+    * I know some Javascript as well
+* Drawing
+    * Though I am not a very skilled artist or anything close  
+    I still like to draw
